@@ -17,7 +17,7 @@ public class Actionloging extends HttpServlet {
 
 String userid;
 String password;
-   
+   //temp
 
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
