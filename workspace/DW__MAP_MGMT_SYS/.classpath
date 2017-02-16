@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/shiva personal/datamapping proj/apache-tomcat-7.0.54-windows-x86/apache-tomcat-7.0.54/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/shiva personal/datamapping proj/apache-tomcat-7.0.54-windows-x86/apache-tomcat-7.0.54/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/shiva personal/datamapping proj/apache-tomcat-7.0.54-windows-x86/apache-tomcat-7.0.54/lib/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/shiva personal/datamapping proj/apache-tomcat-7.0.54-windows-x86/apache-tomcat-7.0.54/lib/poi-examples-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/shiva personal/datamapping proj/apache-tomcat-7.0.54-windows-x86/apache-tomcat-7.0.54/lib/poi-excelant-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/shiva personal/datamapping proj/apache-tomcat-7.0.54-windows-x86/apache-tomcat-7.0.54/lib/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/shiva personal/datamapping proj/apache-tomcat-7.0.54-windows-x86/apache-tomcat-7.0.54/lib/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/shiva personal/datamapping proj/apache-tomcat-7.0.54-windows-x86/apache-tomcat-7.0.54/lib/poi-scratchpad-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/shiva personal/datamapping proj/apache-tomcat-7.0.54-windows-x86/apache-tomcat-7.0.54/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/shiva personal/datamapping proj/apache-tomcat-7.0.54-windows-x86/apache-tomcat-7.0.54/lib/dom4j.jar"/>
+	<classpathentry kind="lib" path="C:/shiva personal/datamapping proj/apache-tomcat-7.0.54-windows-x86/apache-tomcat-7.0.54/lib/commons-fileupload-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/shiva personal/datamapping proj/apache-tomcat-7.0.54-windows-x86/apache-tomcat-7.0.54/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/shiva personal/datamapping proj/apache-tomcat-7.0.54-windows-x86/apache-tomcat-7.0.54/lib/terajdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/shiva personal/datamapping proj/apache-tomcat-7.0.54-windows-x86/apache-tomcat-7.0.54/lib/tdgssconfig.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
