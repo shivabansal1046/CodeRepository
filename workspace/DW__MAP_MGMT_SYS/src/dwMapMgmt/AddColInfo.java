@@ -26,7 +26,7 @@ public class AddColInfo extends HttpServlet {
      */
     public AddColInfo() {
         super();
-        // TODO Auto-generated constructor stub
+        // TODO Auto-generated constructor stub hello temp
     }
     
 	public String getTableId( String LOGIC_TBL_NM) {
